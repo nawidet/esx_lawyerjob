@@ -1,1 +1,1 @@
-TriggerEvent('esx_phone:registerNumber', 'laywerjob', 'Called a laywer', true, true)
+TriggerEvent('esx_phone:registerNumber', 'lawyerjob', 'Called a lawyer', true, true)
